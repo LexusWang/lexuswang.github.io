@@ -12,7 +12,7 @@ title                    : "Lingzhi Wang"
 title_separator          : "-"
 name                     : &name "Lingzhi Wang"
 description              : &description "PhD Candidate in Northwestern University"
-url                      : https://lingzhiwang.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://lingzhiwang.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lexuswang.github.io"
 
