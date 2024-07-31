@@ -6,7 +6,7 @@
    Visibility
    ========================================================================== */
 
-/* http://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
+/* https://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
 
 .hidden {
   display: none;
@@ -117,7 +117,7 @@ body:hover .visually-hidden button {
   @include container();
 }
 
-/* Source: http://snipplr.com/view/10979/css-cross-browser-word-wrap */
+/* Source: https://snipplr.com/view/10979/css-cross-browser-word-wrap */
 .wordwrap { 
   white-space: pre-wrap;      /* CSS3 */   
   white-space: -moz-pre-wrap; /* Firefox */    

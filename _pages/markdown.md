@@ -179,7 +179,7 @@ This is the regular text.[^1] This is more regular text.[^note]
 
 ### Anchor Tag (aka. Link)
 
-This is an example of a [link](http://github.com "Github").
+This is an example of a [link](https://github.com "Github").
 
 ### Abbreviation Tag
 
