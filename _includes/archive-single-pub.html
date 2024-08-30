@@ -48,7 +48,7 @@
           <a href="{{ post.code }}" rel="permalink">[code]</a>
         {% endif %}
         {%- if post.collection == "publications" -%}
-            {%- if post.published == y -%}
+            {%- if post.published == "y" -%}
               <br>
               Published in <i>{{ post.venue }}</i>
             {%- else -%}
