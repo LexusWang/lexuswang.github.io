@@ -20,7 +20,7 @@ author_profile: true
 {% endfor %}
 
 <h2 class="archive__item-title" itemprop="headline">
-  Working Papers
+  Papers Under Review
 </h2>
 
 {% for post in site.workingpapers reversed %}
