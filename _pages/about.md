@@ -9,4 +9,11 @@ redirect_from:
 
 Hi! I am Lingzhi Wang!(You can also call me Lexus). I am now a fourth-year PhD student in Comupter Science, Northwestern University, advised by Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/). I obtained my Bachelor’s degree from Tsinghua University in 2020.
 
-My research is pivoted on leveraging advanced machine learning and artificial intelligence techniques to enhance both cyber offense and defense systems. Specifically, I focus on the following questions: 1. How to make use of the miscellaneous knowledge about cyberattacks to improve the accuracy and efficiency of the defense systems; 2. How to construct sophisticated, high-fidelity cyberattacks without human intervention; 3. How to incorporate advanced AI progress like generative AI into building next-generation defense and offense systems.
+My research focuses on applying advanced machine learning and artificial intelligence techniques to strengthen both cyber offense and defense, as well as to optimize cloud architectures. Specifically, I explore the following questions:
+- How can cutting-edge AI methods be integrated into the development of practical security and network systems such as Security Operation Centers (SOCs), Extended Detection and Response (XDR) systems, and serverless applications (FaaS)?
+- How can we model human knowledge and reasoning processes to carry out complex offensive cybersecurity tasks such as penetration testing and red teaming?
+- With LLMs, how can we represent, learn, and apply abstract knowledge in practical cybersecurity systems, as well as other industrial areas?
+
+<!-- # News 📰
+- **2/25/2025:**
+- **12/6/2024:** I passed my PhD prospectus. -->
