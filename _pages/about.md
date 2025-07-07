@@ -14,6 +14,9 @@ My research focuses on applying advanced machine learning and artificial intelli
 - How can we model human knowledge and reasoning processes to carry out complex offensive cybersecurity tasks such as penetration testing and red teaming?
 - With LLMs, how can we represent, learn, and apply abstract knowledge in practical cybersecurity systems, as well as other industrial areas?
 
-<!-- # News 📰
-- **2/25/2025:**
-- **12/6/2024:** I passed my PhD prospectus. -->
+# News 📰
+- **6/23/2025:** I began my internship as a research intern at [SRI](https://www.sri.com/).
+- **4/1/2025** Our paper *PentestAgent: Incorporating LLM Agents to Automated Penetration Testing* has been accepted by AsiaCCS'25.
+- **2/25/2025:** I’ll be attending NDSS'25 in San Diego to present our work *Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection*. See you in San Diego!
+- **12/6/2024:** I passed my PhD prospectus.
+- **8/30/2024** Our paper *Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection* has been accepted by NDSS'25.
