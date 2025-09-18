@@ -17,8 +17,9 @@ My research focuses on applying advanced machine learning and artificial intelli
 - With LLMs, how can we represent, learn, and apply abstract knowledge in practical cybersecurity systems, as well as other industrial areas?
 
 # News 📰
-- **6/23/2025:** I began my internship as a research intern at [SRI](https://www.sri.com/).
-- **4/1/2025** Our paper *PentestAgent: Incorporating LLM Agents to Automated Penetration Testing* has been accepted by AsiaCCS'25.
-- **2/25/2025:** I’ll be attending NDSS'25 in San Diego to present our work *Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection*. See you in San Diego!
-- **12/6/2024:** I passed my PhD prospectus.
-- **8/30/2024** Our paper *Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection* has been accepted by NDSS'25.
+- **2025.9:** Our paper “Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection” is accepted by TDSC.
+- **2025.6.23:** I began my internship as a research intern at [SRI](https://www.sri.com/).
+- **2025.4** Our paper *PentestAgent: Incorporating LLM Agents to Automated Penetration Testing* has been accepted by AsiaCCS'25.
+- **2025.2:** I’ll be attending NDSS'25 in San Diego to present our work *Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection*. See you in San Diego!
+- **2024.12.6:** I passed my PhD prospectus.
+- **2024.8.30** Our paper *Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection* has been accepted by NDSS'25.
