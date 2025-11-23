@@ -17,7 +17,9 @@ My research focuses on applying advanced machine learning and artificial intelli
 - With LLMs, how can we represent, learn, and apply abstract knowledge in practical cybersecurity systems, as well as other industrial areas?
 
 # News 📰
-- **2025.9:** Our paper GraphFaaS: *Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection* has been accepted to the Workshop on ML for Systems at NeurIPS 2025.
+- **2025.11:** Our paper *From Sands to Mansions: Actionable, Customizable, and Causality-Preserving Cyberattack Emulation with LLM-powered Symbolic Planning* has been accepted with shepherding to the 24th International Conference on Applied Cryptography and Network Security (ACNS 2026).
+- **2025.11:** I will be joining the [USC Information Sciences Institute](https://www.isi.edu/) to intern on the [SPHERE Research Infrastructure](https://sphere-project.net/) project from Jan 2026.
+- **2025.9:** Our paper *GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection* has been accepted to the Workshop on ML for Systems at NeurIPS 2025.
 - **2025.9:** Our paper *Incorporating Gradients to Rules: Towards Online, Adaptive Provenance-based Intrusion Detection* has been accepted by TDSC.
 - **2025.6.23:** I began my internship as a research intern at [SRI](https://www.sri.com/).
 - **2025.4** Our paper *PentestAgent: Incorporating LLM Agents to Automated Penetration Testing* has been accepted by AsiaCCS'25.
