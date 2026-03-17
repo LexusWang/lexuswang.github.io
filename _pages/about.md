@@ -17,6 +17,7 @@ My research focuses on applying advanced machine learning and artificial intelli
 - With LLMs, how can we represent, learn, and apply abstract knowledge in practical cybersecurity systems, as well as other industrial areas?
 
 # News 📰
+- **2026.3** I will be joining [Obsidian Security](https://www.obsidiansecurity.com/) as a Research Intern this spring, working on security monitoring and governance for multi-agent AI systems.
 - **2026.2** I presented a tutorial on using our Aurora system for automated cyberattack emulation and benchmark dataset generation at PRISM'26 (co-located with NDSS'26). Stay tuned for materials and slides!
 - **2026.2:** Our Work-In-Progress paper *Building Next-Generation Datasets for Provenance-Based Intrusion Detection* has been accepted and presented at Workshop on Attack Provenance, Reasoning, and Investigation for Security in the Monitored Environment ([PRISM](https://www.ndss-symposium.org/ndss2026/co-located-events/prism/)), co-located with NDSS'26. Here is the [paper](https://www.ndss-symposium.org/wp-content/uploads/prism2026-21.pdf).
 - **2026.1:** I started my internship in [USC Information Sciences Institute](https://www.isi.edu/) on the [SPHERE Research Infrastructure](https://sphere-project.net/) project.
