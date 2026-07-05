@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lingzhi Wang!(You can also call me Lexus). I am now a final-year PhD student in Comupter Science, Northwestern University, advised by Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/). I obtained my Bachelor’s degree from Tsinghua University in 2020.
+Hi! I am Lingzhi Wang (Lexus). I am an incoming Assistant Professor in the Department of Integrated Information Technology at the University of South Carolina, starting August 2026. I received my PhD in Computer Science from Northwestern University, advised by Prof. [Yan Chen](https://users.cs.northwestern.edu/~ychen/), and my Bachelor's degree from Tsinghua University in 2020.
 
-<span style="color:red"><strong>I am currently on the academic job market and actively seeking tenure-track faculty or postdoctoral positions starting this year!</strong></span>
+<span style="color:black"><strong>I am recruiting motivated PhD students interested in AI-driven cybersecurity. If you're interested, feel free to reach out via email.</strong></span>
 
 My research focuses on applying advanced machine learning and artificial intelligence techniques to strengthen both cyber offense and defense, as well as to optimize cloud architectures. Specifically, I explore the following questions:
 - How can cutting-edge AI methods be integrated into the development of practical security and network systems such as Security Operation Centers (SOCs), Extended Detection and Response (XDR) systems, and serverless applications (FaaS)?
